@@ -78,7 +78,6 @@
             <groupId>com.nvminh162</groupId>
             <artifactId>commonservice</artifactId>
             <version>0.0.1-SNAPSHOT</version>
-            <scope>test</scope>
         </dependency>
     </dependencies>
     <dependencyManagement>
